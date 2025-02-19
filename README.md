@@ -1,7 +1,7 @@
 # 💫About Me :<br/>
 Full name: Tống Đăng Quang<br/>
 Date of birth: 12/01/2004<br/>
-Major: Information Systems<br/>
+Major: Information System<br/>
 Schools: Hanoi University of Industry<br/>
 
 # 💻Tech Stack
